@@ -1,1 +1,1 @@
-# redux-js
+# Learing Redux Topics with plain js, redux
